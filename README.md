@@ -1,6 +1,6 @@
 # CS523_ZeroWaste
 
-We implement Mask-RCNN for the ZeroWaste Dataset.
+We implement PseNet and compare result with Detectron2 and Mask-RCNN for the ZeroWaste Dataset.
 
 # How to Run Our Code
 
