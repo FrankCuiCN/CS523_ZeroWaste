@@ -5,8 +5,8 @@ We implement PseNet and compare result with Detectron2 and Mask-RCNN for the Zer
 # File Description
 
 ## Detectron2
-* detectron2_1000.ipynb: Detectron training and and testing model with 1000 iteration
-* detectron2_4000.ipynb: Detectron training and and testing model with 4000 iteration
+* detectron2_1000.ipynb: Initial Detectron training and and testing model with 1000 iteration
+* detectron2_4000.ipynb: Advanced Detectron training and and testing model with 4000 iteration
 
 ## PseNet
 * data_preprocessing.ipynb: data preprocessing by polygon shrinking
