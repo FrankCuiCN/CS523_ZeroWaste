@@ -2,8 +2,20 @@
 
 We implement PseNet and compare result with Detectron2 and Mask-RCNN for the ZeroWaste Dataset.
 
-# How to Run Our Code
-## detectron2
+# File Description
+
+/Detectron2
+detectron2_1000.ipynb: Detectron training and and testing model with 1000 iteration
+detectron2_4000.ipynb: Detectron training and and testing model with 4000 iteration
+
+/PseNet
+data_preprocessing.ipynb: data preprocessing by polygon shrinking
+model_training.ipynb: PseNet training model
+evaluation: PseNet evaluation code
+testing: PseNet testing code
+
+
+## Running detectron2
 
 Step 1: Open the .ipynb file in Google Colab
 
@@ -11,7 +23,7 @@ Step 2: Upload the dataset file zerowaste-f-final.zip (from https://zenodo.org/r
 
 Step 3: Running each code segment
 
-## PseNet
+## Running PseNet
 
 Step 1: Open the .ipynb file in Google Colab
 
